@@ -28,7 +28,7 @@ export default function SignupPage() {
     }
 
     try {
-      const url = 'http://localhost:8080/auth/signup';
+      const url = 'https://college-event-website.onrender.com/auth/signup';
       const response = await fetch(url, {
         method: 'POST',
         headers: { 'Content-type': 'application/json' },
