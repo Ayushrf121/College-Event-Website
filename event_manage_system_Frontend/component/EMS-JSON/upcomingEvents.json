@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Talk: Web3 & Blockchain",
+    "date": "Oct 30, 2025",
+    "attendees": 45,
+    "category": "Workshop",
+    "location": "Seminar Hall, Block A",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800"
+  },
+  {
+    "id": 2,
+    "title": "Photography Competition",
+    "date": "Nov 2, 2025",
+    "attendees": 67,
+    "category": "Cultural",
+    "location": "Art Studio, Ground Floor",
+    "image": "https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Cricket Tournament Finals",
+    "date": "Nov 8, 2025",
+    "attendees": 120,
+    "category": "Sports",
+    "location": "University Stadium",
+    "image": "https://images.openai.com/thumbnails/url/OpgIeHicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5M9Mj2iw_KcUrOsPTPNCwxrqhwT8x3ivQ0zTLILfDzdi1LzAyL8sk0jAwNVCu2NTQAABFmJRI"
+  },
+  {
+    "id": 4,
+    "title": "AI Hackathon 2025",
+    "date": "Nov 10, 2025",
+    "attendees": 88,
+    "category": "Technical",
+    "location": "Innovation Lab, Block C",
+    "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Music Fest: Rhythms of GEU",
+    "date": "Nov 12, 2025",
+    "attendees": 150,
+    "category": "Cultural",
+    "location": "Main Auditorium",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Coding Battle: CodeStorm",
+    "date": "Nov 15, 2025",
+    "attendees": 95,
+    "category": "Technical",
+    "location": "Computer Science Lab, Block B",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80"
+  }
+]
