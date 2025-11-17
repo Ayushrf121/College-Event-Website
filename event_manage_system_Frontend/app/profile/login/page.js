@@ -19,7 +19,7 @@ export default function LoginPage() {
       return handleError("Either email or password not written");
     }
     try {
-      const url = 'http://localhost:8080/auth/login';
+      const url = 'https://college-event-website.onrender.com/auth/Login';
       const responce = await fetch(url, {
         method: 'POST',
         headers: { 'Content-type': 'application/json' },
