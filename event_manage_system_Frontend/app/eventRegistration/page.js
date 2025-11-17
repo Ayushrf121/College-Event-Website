@@ -39,7 +39,7 @@ export default function RegistrationForm() {
     
     console.log("Form submitted:", formData);
     try {
-      const response = await fetch('http://localhost:8080/registration/register', {
+      const response = await fetch('https://college-event-website.onrender.com/registration/register', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
