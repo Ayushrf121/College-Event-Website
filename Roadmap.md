@@ -83,14 +83,3 @@ The search bar in `Navbar.js` will:
 - **Data**: Static JSON or mock API (expandable)
 
 ---
-
-## 📌 Notes
-
-- No external UI libraries (e.g., shadcn, MUI)
-- Fully responsive and mobile-friendly
-- Dark theme by default
-- Clean, accessible, and semantic HTML
-
----
-
-Let’s start with the Home Page layout and build from there!
